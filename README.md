@@ -1,15 +1,22 @@
 # 🌌 Magnetic Math Universe (MMU)
 
-Welcome to the **Magnetic Math Universe (v2.5)**—a revolutionary esoteric computational architecture where numbers are treated as active **Energies** with polarities rather than passive binary states ($0$ and $1$).
+> ⚠️ **IMPORTANT DISCLAIMER (Read First):** > In this framework, numbers are NOT treated as standard mathematical values. They are treated as physical **"Energies"** with polarities:
+> * **Even Numbers** = Stable North Poles
+> * **Odd Numbers** = Volatile South Poles
+    > Standard arithmetic axioms do not apply here. The operators dictate how these energies collide, merge, or short-circuit.
 
-This framework is specifically designed as a hardware-level thought experiment to bypass $NP$-Hard problems (like brute-force password cracking) in constant space ($O(1)$) using **Instant Hardware Pruning** and **The EMP Protocol**.
+---
+
+Welcome to the **Magnetic Math Universe (v2.5)**—a revolutionary esoteric computational architecture where numbers are treated as active Energies with polarities rather than passive binary states (0 and 1).
+
+This framework is specifically designed as a hardware-level thought experiment to bypass NP-Hard problems (like brute-force password cracking) in constant space (O(1)) using **Instant Hardware Pruning** and **The EMP Protocol**.
 
 ---
 
 ## 🚀 Key Features
-* **Energetic Polarities:** Even numbers act as stable North Poles; Odd numbers act as volatile South Poles.
-* **Auto-Collision Engine:** Mixed/contradictory data flows trigger an instant EMP ($0$), burning the execution path and freeing memory in real-time.
-* **Rust Simulation Ready:** Complete implementation of non-standard arithmetic operations ($\oplus$, $\otimes$, $\div$).
+* **Energetic Polarities:** Built entirely on the North/South field dynamics.
+* **Auto-Collision Engine:** Mixed/contradictory data flows trigger an instant EMP (0), burning the execution path and freeing memory in real-time.
+* **Rust Simulation Ready:** Complete implementation of non-standard arithmetic operations (+, *, /) mapping to Magnetic Merges and Amplifiers.
 
 ---
 
