@@ -13,10 +13,12 @@ This framework is specifically designed as a hardware-level thought experiment t
 
 ---
 
-## 📖 The Official Rulebook
-The entire mathematical specification, including basic operations, quantum algebra, relational operators, and the step-by-step trace of **The Ultimate Master Test**, is documented in the core file:
+## 📖 Official Documentation & Research
 
-👉 **[Read the Complete Master Rulebook Here](./MAGNETIC_MATH_MASTER_RULEBOOK.md)**
+Is universe ke core rules, formal mathematical proofs, aur architectural details ko padhne ke liye niche diye gaye links par click karein:
+
+* 📄 **[Read the Complete Master Rulebook](./MAGNETIC_MATH_MASTER_RULEBOOK.md)** — Contains all arithmetic operations, quantum algebra, and loop mechanics v2.5.
+* 🔬 **[Read the Formal Research Paper](./RESEARCH-PAPER.md)** — *Title: Non-Deterministic Polynomial Time Reduction via Physical Data Autonomy and Spontaneous Topology Collapse (P = NP Proof).*
 
 ---
 
